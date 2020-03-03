@@ -6,6 +6,7 @@
 <p>https://my-json-server.typicode.com/</p>
 
 <br />
+<p>https://my-json-server.typicode.com/rajjubajra/json-server</p>
 
 
 <p><b>Installation:</b> npm i json-server</p>
