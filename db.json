@@ -918,54 +918,5 @@
         }
       ]
     }
-  ],
-  "Coffee": [
-    {
-      "type": "Coffee Shop",
-      "name": "The Coffe Shop",
-      "main-nav": [
-        {
-          "id": "main-nav-001",
-          "title": "Menu",
-          "path": "menu",
-          "order": 1,
-          "status": 1
-        },
-        {
-          "id": "main-nav-002",
-          "title": "Our Story",
-          "path": "ourstory",
-          "order": 2,
-          "status": 1
-        },
-        {
-          "id": "main-nav-003",
-          "title": "Blogs",
-          "path": "blogs",
-          "order": 3,
-          "status": 1
-        },
-        {
-          "id": "menu-004",
-          "title": "Contact",
-          "path": "contact",
-          "order": 4,
-          "status": 1
-        }
-      ],
-      "pages": [
-        {
-          "id": "page-001",
-          "page": "landing",
-          "title": "Coffee",
-          "sub-title": "Enjoy a cup"
-        },
-        {
-          "id": "page-002",
-          "page": "Best Coffee",
-          "title": "Best Coffee"
-        }
-      ]
-    }
   ]
 }
